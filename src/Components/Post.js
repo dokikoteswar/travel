@@ -1,4 +1,4 @@
-import axios from "axios";
+
 import React, { useEffect, useState, useRef } from "react";
 import { FaAngleRight } from "react-icons/fa6";
 import { useNavigate } from "react-router-dom";
@@ -74,3 +74,4 @@ const Post = ({ post }) => {
 };
 
 export default Post;
+// this is
